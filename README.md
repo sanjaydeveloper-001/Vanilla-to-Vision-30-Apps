@@ -1,4 +1,4 @@
-# Vanilla-to-Vision 30 Apps [🔗](https://30appsgallery.vercel.app/)
+# [Vanilla-to-Vision 30 Apps](https://30appsgallery.vercel.app/) 
 
 Welcome to my **Vanilla-to-Vision 30 Apps**!  
 I built **30 React + Tailwind CSS apps**, exploring APIs, AI, Charts, and other real-world use cases.  
