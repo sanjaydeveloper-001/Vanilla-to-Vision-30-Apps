@@ -1,8 +1,8 @@
-# 🚀 30 Apps Challenge
+# Vanilla-to-Vision 30 Apps
 
-Welcome to my **30 Apps Challenge**!  
+Welcome to my **Vanilla-to-Vision 30 Apps**!  
 I built **30 React + Tailwind CSS apps**, exploring APIs, AI, Charts, and other real-world use cases.  
-The goal: **improve frontend skills** and experiment with modern web development.  
+The goal: **improve fullstack skills** and experiment with modern web development.  
 
 ---
 
@@ -56,6 +56,6 @@ The goal: **improve frontend skills** and experiment with modern web development
 ## 📬 Connect with Me
 
 Made with ❤️ by **Sanjay**  
-Follow me on: [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) | [Instagram](https://www.instagram.com/)  
+Follow me on: [LinkedIn](https://www.linkedin.com/in/josanweb/) | [GitHub](https://github.com/sanjaydeveloper-001/) | [LeetCode](https://leetcode.com/u/Sanjay_dev_001/)  
 
 © 2025 Sanjay. All rights reserved.
